@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: 02275d52-ecb8-9e45-9bad-5a864640cbf8
 ---
@@ -199,7 +202,7 @@ Monte Carlo Lec (![This resource may not render correctly in a screen reader.](/
 {{< tdopen >}}
 Derivation of Transport Equation
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 
 
 LEC #13 and LEC #14 are based on the following textbook:
@@ -226,7 +229,7 @@ Boundary Conditions, Interface Conditions
 {{< tdopen >}}
 Simple Analytical Solutions to TE
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="11" >}}
 
 
 LEC #15 through LEC #25 are derived from various chapters in the following textbooks:
