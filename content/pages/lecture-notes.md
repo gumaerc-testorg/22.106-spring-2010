@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the schedule of lecture topics for the course along
+  with lecture slides and references.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -33,7 +35,7 @@ LEC SLIDES / REFERENCES
 Neutron Fundamentals / Microscopic Interactions
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit22_106s10_lec01))
+({{% resource_link 5077c956-fe7d-d194-a35a-43a7b7470466 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -45,7 +47,7 @@ Neutron Fundamentals / Microscopic Interactions
 Macroscopic Interactions
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit22_106s10_lec02))
+({{% resource_link 57d5eac4-3f17-5adf-73ce-d632e5207025 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -57,7 +59,7 @@ Macroscopic Interactions
 Nuclear Data
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit22_106s10_lec03))
+({{% resource_link 776e8cba-0095-78c1-6083-0b6f669d11da "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -71,9 +73,9 @@ R-Matrix Theory
 {{< tdopen >}}
 
 
-([PDF]({{< baseurl >}}/resources/mit22_106s10_lec04a))
+({{% resource_link bfbef7e7-386e-7f01-8083-55a7ecd8d8b5 "PDF" %}})
 
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit22_106s10_lec04b))
+({{% resource_link 4944e2a2-886c-454b-f64a-bd1b52909f76 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -87,7 +89,7 @@ R-Matrix Theory
 Neutron Thermalization
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit22_106s10_lec05))
+({{% resource_link 66bfebee-3b89-bc70-3960-f48701596dc9 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -101,11 +103,11 @@ Scattering Laws / SANS
 {{< tdopen >}}
 
 
-([PDF]({{< baseurl >}}/resources/mit22_106s10_lec06a))
+({{% resource_link 6ad03d69-1e31-dad7-b9eb-8c803a978660 "PDF" %}})
 
-([PDF - 1.7MB]({{< baseurl >}}/resources/mit22_106s10_lec06b))
+({{% resource_link f9c0eaa1-bffd-a170-956b-2b9fba2a50b0 "PDF - 1.7MB" %}})
 
-([PDF - 1.2MB]({{< baseurl >}}/resources/mit22_106s10_lec06c))
+({{% resource_link 53896240-6e46-d2c5-4b66-152f3903af20 "PDF - 1.2MB" %}})
 
 
 {{< tdclose >}}
@@ -119,7 +121,7 @@ Scattering Laws / SANS
 Neutron Detection
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit22_106s10_lec07))
+({{% resource_link dc78537d-f1e1-6577-3d9c-c6cb73be5c1f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -131,7 +133,7 @@ Neutron Detection
 Review of Probability and Statistics, Introduction to Monte Carlo
 {{< tdclose >}}
 {{< tdopen >}}
-Monte Carlo Lec (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 12.8MB](https://laws.lanl.gov/vhosts/mcnp.lanl.gov/pdf_files/la-ur-05-4983.pdf))  
+Monte Carlo Lec ([PDF - 12.8MB](https://laws.lanl.gov/vhosts/mcnp.lanl.gov/pdf_files/la-ur-05-4983.pdf))  
 \[Pages 1-3 through 1-8\]
 {{< tdclose >}}
 
@@ -144,7 +146,7 @@ Monte Carlo Lec (![This resource may not render correctly in a screen reader.](/
 Collision Physics and Sampling
 {{< tdclose >}}
 {{< tdopen >}}
-Monte Carlo Lec (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 12.8MB](https://laws.lanl.gov/vhosts/mcnp.lanl.gov/pdf_files/la-ur-05-4983.pdf))  
+Monte Carlo Lec ([PDF - 12.8MB](https://laws.lanl.gov/vhosts/mcnp.lanl.gov/pdf_files/la-ur-05-4983.pdf))  
 \[Pages 2-1 through 2-8, pages 3-7 through 3-22, pages 5-1 through 5-40\]
 {{< tdclose >}}
 
@@ -157,7 +159,7 @@ Monte Carlo Lec (![This resource may not render correctly in a screen reader.](/
 Tallying and Uncertainties
 {{< tdclose >}}
 {{< tdopen >}}
-Monte Carlo Lec (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 12.8MB](https://laws.lanl.gov/vhosts/mcnp.lanl.gov/pdf_files/la-ur-05-4983.pdf))  
+Monte Carlo Lec ([PDF - 12.8MB](https://laws.lanl.gov/vhosts/mcnp.lanl.gov/pdf_files/la-ur-05-4983.pdf))  
 \[Pages 6-1 through 6-26\]
 {{< tdclose >}}
 
@@ -170,7 +172,7 @@ Monte Carlo Lec (![This resource may not render correctly in a screen reader.](/
 Variance Reduction Techniques
 {{< tdclose >}}
 {{< tdopen >}}
-Monte Carlo Lec (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 12.8MB](https://laws.lanl.gov/vhosts/mcnp.lanl.gov/pdf_files/la-ur-05-4983.pdf))  
+Monte Carlo Lec ([PDF - 12.8MB](https://laws.lanl.gov/vhosts/mcnp.lanl.gov/pdf_files/la-ur-05-4983.pdf))  
 \[Pages 9-1 through 9-24\]
 {{< tdclose >}}
 
@@ -185,10 +187,10 @@ Criticality Safety / Monte Carlo Criticality
 {{< tdopen >}}
 
 
-Monte Carlo Lec (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 12.8MB](https://laws.lanl.gov/vhosts/mcnp.lanl.gov/pdf_files/la-ur-05-4983.pdf))  
+Monte Carlo Lec ([PDF - 12.8MB](https://laws.lanl.gov/vhosts/mcnp.lanl.gov/pdf_files/la-ur-05-4983.pdf))  
 \[Pages 7-1 through 7-20\]
 
-Monte Carlo Lec (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 12.8MB](https://laws.lanl.gov/vhosts/mcnp.lanl.gov/pdf_files/la-ur-05-4983.pdf))  
+Monte Carlo Lec ([PDF - 12.8MB](https://laws.lanl.gov/vhosts/mcnp.lanl.gov/pdf_files/la-ur-05-4983.pdf))  
 \[Pages 12-35\]
 
 

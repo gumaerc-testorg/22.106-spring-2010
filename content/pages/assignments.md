@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the homework assignments and term paper required
+  for the course along with guidelines for writing the term paper.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -30,7 +32,7 @@ DUE
 1
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit22_106s10_assn01))
+({{% resource_link c57a4725-8be0-072e-d19d-a3bda6f0511e "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Ses #4
@@ -42,7 +44,7 @@ Ses #4
 2
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit22_106s10_assn02))
+({{% resource_link ea68d7dc-4d11-f305-a5bd-6657c8e4b6b6 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Ses #8
@@ -54,7 +56,7 @@ Ses #8
 3
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit22_106s10_assn03))
+({{% resource_link 5d72fd94-0c6b-eac9-e46b-67731a3c85f7 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Ses #12
@@ -66,7 +68,7 @@ Ses #12
 4
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit22_106s10_assn04))
+({{% resource_link c6f5184b-d2fd-8c87-eb9a-1c52c4ca1399 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Ses #16
@@ -78,7 +80,7 @@ Ses #16
 5
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit22_106s10_assn05))
+({{% resource_link 11125c44-9a3b-8944-6734-49ffe7a59166 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Ses #19
@@ -92,7 +94,7 @@ Ses #19
 {{< tdopen >}}
 
 
-([PDF]({{< baseurl >}}/resources/mit22_106s10_assn06))
+({{% resource_link f19d266e-7992-205f-e38b-3526959582a0 "PDF" %}})
 
 Term Paper
 
@@ -109,4 +111,4 @@ Ses #24
 Resources for Term Paper (due Ses #24)
 --------------------------------------
 
-Guidelines ([PDF]({{< baseurl >}}/resources/mit22_106s10_pp2))
+Guidelines ({{% resource_link 8170f8ab-6184-8811-17fd-c6c0e5c5ad24 "PDF" %}})
