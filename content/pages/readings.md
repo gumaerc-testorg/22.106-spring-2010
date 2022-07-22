@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides readings on neutron interactions, Monte Carlo theory,
+  and transport theory.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: fcf4af90-c471-5654-8b98-44ee64a6fbb7
 ---
@@ -16,7 +21,7 @@ Cruzate, J. A., J. L. Carelli, and B. N. Gregori. "Bonner Sphere Spectrometer." 
 Monte Carlo Theory
 ------------------
 
-Monte Carlo LANL Lectures (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF -12.8MB](https://laws.lanl.gov/vhosts/mcnp.lanl.gov/pdf_files/la-ur-05-4983.pdf))
+Monte Carlo LANL Lectures ([PDF -12.8MB](https://laws.lanl.gov/vhosts/mcnp.lanl.gov/pdf_files/la-ur-05-4983.pdf))
 
 Transport Theory
 ----------------
